@@ -1,12 +1,10 @@
-Stock Prediction Streamlit App
+# Stock Price Prediction Using ANN
 
-How to run:
+## Files
+- app.py
+- stock_ann_model.h5
+- requirements.txt
 
-1. Install dependencies:
-   pip install -r requirements.txt
-
-2. Add your trained model file:
-   stock_ann_model.h5
-
-3. Run app:
-   streamlit run app.py
+## Run Locally
+pip install -r requirements.txt
+streamlit run app.py
